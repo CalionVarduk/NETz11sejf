@@ -1,0 +1,9 @@
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\bin\Debug\NETz11sejf.exe.config
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\bin\Debug\NETz11sejf.exe
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\bin\Debug\NETz11sejf.pdb
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\obj\Debug\NETz11sejf.csprojResolveAssemblyReference.cache
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\obj\Debug\NETz11sejf.MainForm.resources
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\obj\Debug\NETz11sejf.Properties.Resources.resources
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\obj\Debug\NETz11sejf.csproj.GenerateResource.Cache
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\obj\Debug\NETz11sejf.exe
+E:\programowanie\c\dot net\NETz11sejf\NETz11sejf\obj\Debug\NETz11sejf.pdb
